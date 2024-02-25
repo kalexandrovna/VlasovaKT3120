@@ -34,3 +34,13 @@ C:\Users\Катя\source\repos\VlasovaKT3120\VlasovaKt\obj\Debug\net7.0\refint\V
 C:\Users\Катя\source\repos\VlasovaKT3120\VlasovaKt\obj\Debug\net7.0\VlasovaKt.pdb
 C:\Users\Катя\source\repos\VlasovaKT3120\VlasovaKt\obj\Debug\net7.0\VlasovaKt.genruntimeconfig.cache
 C:\Users\Катя\source\repos\VlasovaKT3120\VlasovaKt\obj\Debug\net7.0\ref\VlasovaKt.dll
+C:\Users\Катя\source\repos\VlasovaKT3120\VlasovaKt\bin\Debug\net7.0\Humanizer.dll
+C:\Users\Катя\source\repos\VlasovaKT3120\VlasovaKt\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Катя\source\repos\VlasovaKT3120\VlasovaKt\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Катя\source\repos\VlasovaKT3120\VlasovaKt\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Катя\source\repos\VlasovaKT3120\VlasovaKt\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Катя\source\repos\VlasovaKT3120\VlasovaKt\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Катя\source\repos\VlasovaKT3120\VlasovaKt\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\Катя\source\repos\VlasovaKT3120\VlasovaKt\bin\Debug\net7.0\Npgsql.dll
+C:\Users\Катя\source\repos\VlasovaKT3120\VlasovaKt\bin\Debug\net7.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\Катя\source\repos\VlasovaKT3120\VlasovaKt\bin\Debug\net7.0\System.CodeDom.dll
