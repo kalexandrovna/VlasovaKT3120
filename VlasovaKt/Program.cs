@@ -3,6 +3,7 @@ using NLog;
 using Microsoft.EntityFrameworkCore;
 using VlasovaKt.Database;
 using VlasovaKt.ServiceExtensions;
+using VlasovaKt.Middlewares;
 
 var builder = WebApplication.CreateBuilder(args);
 var logger = LogManager.Setup().LoadConfigurationFromAppSettings().GetCurrentClassLogger();
@@ -30,6 +31,8 @@ try
         app.UseSwagger();
         app.UseSwaggerUI();
     }
+
+    app.UseMiddleware<ExceptionHandlerMiddleware>();
 
     app.UseAuthorization();
 
